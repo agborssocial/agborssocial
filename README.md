@@ -13,8 +13,8 @@ My journey in computer science and interest in data privacy has led me to develo
 | File Integrity monitoring and Malware Detection         | Understanding and Setting Up Wazuh Capabilities - Part 1|
 
 ## Tools
-Wazuh
-VMware
+- Wazuh
+- VMware
 
 ### Network
 <div>
