@@ -48,15 +48,25 @@ My journey in computer science and interest in data privacy has led me to develo
 </div>
 
 
-<!--## Certifications
+## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <a href="https://www.credly.com/badges/8a1f0544-c2d4-4585-8075-c67ede8474d4/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/-Cisco%20Network%20Technician-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Network Technician Badge" />
+    </a>
+    <a href="https://www.credly.com/badges/ef423c40-ff54-419a-ae46-1c9a8a43152b/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/-Network%20Support%20and%20Security-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Network Support and Security Badge" />
+    </a>
+    <a href="https://www.credly.com/badges/f2cac838-2fa9-4fd3-9527-27241a95bcd2/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Introduction to Cybersecurity Badge" />
+    </a>
+
+<!--<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>-->
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />-->
+</div>
 
 ## Projects
 - <a href="https://github.com/agborssocial/File-Integrity-monitoring-and-Malware-Detection-Using-Wazuh/tree/main">File Integrity Monitoring and Malware Detection Using Wazuh</a>
