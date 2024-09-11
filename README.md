@@ -15,6 +15,9 @@ My journey in computer science and interest in data privacy has led me to develo
 ## Tools
 - Wazuh
 - VMware
+- Nmap
+- Windows Server 2016-2019
+- VirtualBox
 
 ### Network
 <div>
@@ -58,9 +61,11 @@ My journey in computer science and interest in data privacy has led me to develo
       <img src="https://img.shields.io/badge/-Network%20Support%20and%20Security-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Network Support and Security Badge" />
     </a>
     <a href="https://www.credly.com/badges/f2cac838-2fa9-4fd3-9527-27241a95bcd2/public_url" target="_blank">
-      <img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Introduction to Cybersecurity Badge" />
+      <img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity-28A745?style=for-the-badge&logo=Cisco&logoColor=white" alt="Introduction to Cybersecurity Badge" />
     </a>
-
+    <a href="https://www.credly.com/badges/e6d2920e-9714-4de3-9cb4-d15cc4617415/public_url" target="_blank">
+      <img src="https://img.shields.io/badge/-Endpoint%20Security-007BFF?style=for-the-badge&logo=Cisco&logoColor=white" alt="Endpoint Security Badge" />
+    </a>
 <!--<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
