@@ -10,7 +10,7 @@ My journey in computer science and interest in data privacy has led me to develo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| File Integrity monitoring and Malware Detection         | Understanding and Setting Up Wazuh Capabilities - Part 1|
+| File Integrity monitoring and Malware Detection         | <a href="https://github.com/agborssocial/File-Integrity-monitoring-and-Malware-Detection-Using-Wazuh/tree/main">File Integrity Monitoring and Malware Detection Using Wazuh</a>|
 
 ## Tools
 - Wazuh
