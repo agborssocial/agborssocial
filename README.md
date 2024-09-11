@@ -59,4 +59,4 @@ My journey in computer science and interest in data privacy has led me to develo
 </div>-->
 
 ## Projects
-- <a href="https://github.com/agborssocial/File-Integrity-monitoring-and-Malware-Detection-Using-Wazuh/tree/main">File Integrity Monitoring and Malware Detection Using Wazuh</a>|
+- <a href="https://github.com/agborssocial/File-Integrity-monitoring-and-Malware-Detection-Using-Wazuh/tree/main">File Integrity Monitoring and Malware Detection Using Wazuh</a>
