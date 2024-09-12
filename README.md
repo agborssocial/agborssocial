@@ -52,7 +52,6 @@ My journey in computer science and interest in data privacy has led me to develo
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
     <a href="https://www.credly.com/badges/8a1f0544-c2d4-4585-8075-c67ede8474d4/public_url" target="_blank">
       <img src="https://img.shields.io/badge/-Cisco%20Network%20Technician-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Network Technician Badge" />
