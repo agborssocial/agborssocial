@@ -1,6 +1,6 @@
 # Hello, I'm Agbor
 
-I am a soon to be graduate, this year, with a profound interest in technology and a dedication to solving complex problems.
+I'm an IT and network support engineer transitioning to cyber security. With a passion for technology and problem solving I improve operations and increase safety through automation.
 
 ## Objective
 
@@ -10,7 +10,8 @@ My journey in computer science and interest in data privacy has led me to develo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| File Integrity monitoring and Malware Detection         | <a href="https://github.com/agborssocial/File-Integrity-monitoring-and-Malware-Detection-Using-Wazuh/tree/main">File Integrity Monitoring and Malware Detection Using Wazuh</a>|
+| File Integrity monitoring and Malware Detection| <a href="https://github.com/agborssocial/File-Integrity-monitoring-and-Malware-Detection-Using-Wazuh/tree/main">File Integrity Monitoring and Malware Detection Using Wazuh</a>|
+| Active Response, Vulnerability Detection and Command Monitoring Using Wazuh| <a href="https://github.com/agborssocial/Active-Response-Vulnerability-Detection-and-Command-Monitoring-with-Wazuh/tree/main">Active Response, Vulnerability Detection and Command Monitoring Using Wazuh</a>|
 
 ## Tools
 - Wazuh
