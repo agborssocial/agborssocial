@@ -12,6 +12,7 @@ My journey in computer science and interest in data privacy has led me to develo
 |-----------------------------------------------|----------------------------|
 | File Integrity monitoring and Malware Detection| <a href="https://github.com/agborssocial/File-Integrity-monitoring-and-Malware-Detection-Using-Wazuh/tree/main">File Integrity Monitoring and Malware Detection Using Wazuh</a>|
 | Active Response, Vulnerability Detection and Command Monitoring Using Wazuh| <a href="https://github.com/agborssocial/Active-Response-Vulnerability-Detection-and-Command-Monitoring-with-Wazuh/tree/main">Active Response, Vulnerability Detection and Command Monitoring Using Wazuh</a>|
+| Asset Visibility and Security Hardening with Wazuh-Syscollector| <a href="https://github.com/agborssocial/Asset-Visibility-and-Security-Hardening-with-Wazuh-Syscollector/tree/main">Asset Visibility and Security Hardening with Wazuh-Syscollector</a>
 
 ## Tools
 - Wazuh
@@ -76,3 +77,4 @@ My journey in computer science and interest in data privacy has led me to develo
 ## Projects
 - <a href="https://github.com/agborssocial/File-Integrity-monitoring-and-Malware-Detection-Using-Wazuh/tree/main">File Integrity Monitoring and Malware Detection Using Wazuh</a>
 - <a href="https://github.com/agborssocial/Active-Response-Vulnerability-Detection-and-Command-Monitoring-with-Wazuh/tree/main">Active Response, Vulnerability Detection and Command Monitoring Using Wazuh</a>
+- <a href="https://github.com/agborssocial/Asset-Visibility-and-Security-Hardening-with-Wazuh-Syscollector/tree/main">Asset Visibility and Security Hardening with Wazuh-Syscollector</a>
